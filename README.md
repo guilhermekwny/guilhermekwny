@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Atualmente estou trabalhando na empresa Telenova.<br>🧙‍♂️Estou estudando para ser um desenvolvedor Full Stack.📖Estou aprendendo sobre redes de computadores e Front-End nesse momento.<br>💭Adoro ler e aprender.
+🔭Atualmente estou trabalhando na empresa Telenova.<br>🧙‍♂️Estou estudando para ser um desenvolvedor Full Stack.<br>📖Estou aprendendo sobre redes de computadores e Front-End nesse momento.<br>💭Adoro ler e aprender.
 
 
 ## 🌐 Socials:
